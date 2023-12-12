@@ -9,3 +9,6 @@ Build in pure VJS as an part of youtube curse video by freeCodeCamp (Scrimba/Per
 You can add the amount of people counted via clicking "increment" and save the amount by clicking "save"
 
 To clear the counter you need to refresh the page.
+
+
+I have no copyrights for this one - it was done only for educational purpouse. 
